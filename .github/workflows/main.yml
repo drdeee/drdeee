@@ -20,5 +20,4 @@ jobs:
           plugin_languages: yes
           plugin_lines: yes
           plugin_people: yes
-          plugin_reactions: yes
-          plugin_reactions_details: count, percentage
+          plugin_reactions: false
